@@ -1,7 +1,6 @@
 import datetime
 import pandas as pd
 from datetime import timedelta
-import dateparser
 
 
 def time_filter(df, time_col, heure):
@@ -9,7 +8,7 @@ def time_filter(df, time_col, heure):
 
     for x in range(len(df)):
         try :
-            df.loc[x,time_col] = dateparser.parse(df[time_col][x], settings={'TIMEZONE': 'US/Eastern', 'RETURN_AS_TIMEZONE_AWARE': False})
+            df.loc[x,time_col] = datetime.datetime(df[time_col][x][2], df[time_col][x][1], df[time_col][x][0], df[time_col][x][3])
         except:
             df = df.drop(x,axis=0)
             

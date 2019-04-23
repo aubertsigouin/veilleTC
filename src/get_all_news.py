@@ -34,7 +34,6 @@ from utils.clean import clean
 from utils.path_handling import create_path
 from extract.extract import extract_articles
 from metrics.time_filter import time_filter
-from metrics.nlp import preprocess_new_obs, predict_probabilities
 from metrics.scoring import write_scoring, get_keywords
 from metrics.separate import separate
 from xls_io.write import write_to_excel
@@ -55,33 +54,37 @@ os.chdir("..")
 #%% DÉFINITION D'UN WRAPPER
     
 def wrapper(xlsx_out, rss_path, keyword_path, stopword_path, heure):
-
-    print('Importation des RSS')
+    
+    # Extraire tout les articles
     rss_list = list(pd.read_excel(rss_path)[0])
-    
-    print('Extraction des articles')
     df = extract_articles(rss_list)
-    df.to_excel('test.xlsx')
 
-    print('Nettoyage des titres et description')
-    
-    df.fillna(value='', inplace=True)
+    # Nettoyer le titre et la description
     df = clean(df = df, col_list = ['title', 'description'])
     df = df.replace('', np.nan, regex=True).dropna(subset=['title', 'description']).reset_index(drop=True)
     
-    print('Filtrer selon le temps')
-    df = time_filter(df = df, time_col='pubDate',heure = heure)
+    # Filtrer selon le temps
+    df = time_filter(df = df, time_col='pubdate',heure = heure)
+    
+    # Scorer les articles
+    df = write_scoring(
+            df = df, 
+            col_names = ['score', 'keyword_counts'], 
+            title_col = 'title', 
+            desc_col = 'description', 
+            keyword_list = get_keywords(
+                    key_path = keyword_path,
+                    stop_path = stopword_path
+                    )
+            ).reset_index(drop=True)
+        
+    df.to_excel('test1.xlsx')
+        
+    # Séparer en différents DataFrame(EN, FR, QC)
+    df = separate(df)
 
-    print('Scorer les articles')
-    
-    df = preprocess_new_obs(df)
-    score = predict_probabilities(new_obs=df,train_df=pd.read_csv('train_data.csv', index_col=0).reset_index(drop=True))
-    score = np.array(list(map(lambda x: score[x][0], range(len(score)))))
-    df['score']= score
-    
-    df.sort_values(by='score', ascending=False).reset_index(drop=True).to_excel('test1.xlsx')
-    print('Écrire en format Excel')
- #   write_to_excel(df_list = df, path = xlsx_out)
+    # Écrire en format Excel
+    write_to_excel(df_list = df, path = xlsx_out)
 
 #%% PRÉPARATION
 
@@ -93,9 +96,9 @@ today = date()
 
     # Seuil horaire avec exception si Lundi
 if is_monday() == True:
-    nb_heure = 24+24+16
+    nb_heure = 24+24+24
 else:
-    nb_heure = 16
+    nb_heure = 24
 
 #%% EXÉCUTION MINUTÉE 
     
