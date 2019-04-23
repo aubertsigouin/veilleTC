@@ -1,0 +1,671 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+ <head>
+  <title>OPML exported from Outlook</title>
+  <dateCreated>Mon, 14 Jan 2019 15:58:46 -0500</dateCreated>
+  <dateModified>Mon, 14 Jan 2019 15:58:46 -0500</dateModified>
+ </head>
+ <body>
+  <outline text="Afrique" type="rss" xmlUrl="http://www.lapresse.ca/rss/916.xml"/>
+  <outline text="McKinsey Quarterly" type="rss"
+  xmlUrl="http://rss.mckinseyquarterly.com/ad"/>
+  <outline text="La politique verte" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/914.xml"/>
+  <outline text="Gartner Announcements" type="rss"
+  xmlUrl="http://www.gartner.com/it/section.jsp?type=press_releases&amp;format=rss"/>
+  <outline text="Lesaffaires.com - Vidéos" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/videos"/>
+  <outline text="Nouvelles Techno" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/123235.xml"/>
+  <outline text="Usine Digitale L'Usine Digitale - Actualités à la une"
+  type="rss" xmlUrl="http://www.usine-digitale.fr/rss"/>
+  <outline text="Objetconnecte.com" type="rss"
+  xmlUrl="http://www.objetconnecte.com/feed/"/>
+  <outline text="Transformation digitale des organisations" type="rss"
+  xmlUrl="http://www.francklapinta.com/feed/"/>
+  <outline text="Techno - Médias sociaux" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_medias_sociaux.xml"/>
+  <outline text="Techno - Matériel" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_materiel.xml"/>
+  <outline text="LinuxInsider" type="rss"
+  xmlUrl="https://www.linuxinsider.com/perl/syndication/rssfull.pl?__hstc=67659214.f3e7617cbd77833f3b019d0f6708f580.1534343252386.1534343252386.1534343252386.1&amp;__hssc=67659214.23.1534343252386&amp;__hsfp=1934574603"/>
+  <outline text="CRM Buyer" type="rss"
+  xmlUrl="https://www.crmbuyer.com/perl/syndication/rssfull.pl?__hstc=67659214.f3e7617cbd77833f3b019d0f6708f580.1534343252386.1534343252386.1534343252386.1&amp;__hssc=67659214.23.1534343252386&amp;__hsfp=1934574603"/>
+  <outline text="Pollution" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1219.xml"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/5773"/>
+  <outline text="Spectacles - Festival" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/908.xml"/>
+  <outline text="GigaOM" type="rss" xmlUrl="http://feeds.feedburner.com/ommalik"/>
+  <outline text="Les dernières actualités de Futura-Sciences" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/actualites.xml"/>
+  <outline text="Événements" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/evenements"/>
+  <outline text="École de gestion" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/ecole-gestion/fil/79020/nouvelles.xml"/>
+  <outline text="IQ - Communiqués de presse" type="rss"
+  xmlUrl="http://feeds.feedburner.com/IQcommuniques?format=xml"/>
+  <outline text="" type="rss" xmlUrl="https://www.journaldemontreal.com/rss"/>
+  <outline text="Fintech –&#160;Refind" type="rss"
+  xmlUrl="https://refind.com/feed/fintech.rss"/>
+  <outline text="Cirque" type="rss" xmlUrl="http://www.lapresse.ca/rss/9166.xml"/>
+  <outline text="latimes.com - Los Angeles Times" type="rss"
+  xmlUrl="http://www.latimes.com/rss2.0.xml"/>
+  <outline text="Auto écolo" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1361.xml"/>
+  <outline text="Stéphane Laporte" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/950.xml"/>
+  <outline text="Desjardins - Études économiques" type="rss"
+  xmlUrl="http://rss.desjardins.com/etudeseconomiques"/>
+  <outline text="strategy+business - All Updates" type="rss"
+  xmlUrl="http://feeds.feedburner.com/StrategyBusiness-AllUpdates"/>
+  <outline text="Musique" type="rss" xmlUrl="http://www.lapresse.ca/rss/286.xml"/>
+  <outline text="McKinsey Insights &amp; Publications" type="rss"
+  xmlUrl="https://www.mckinsey.com/Insights/rss.aspx"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/6106"/>
+  <outline text="Ailleurs sur le web" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/7566.xml"/>
+  <outline
+  text="Québec économique - Le portail d'information sur l'économie du Québec d'aujourd'hui"
+  type="rss" xmlUrl="http://qe.cirano.qc.ca/fil"/>
+  <outline text="Actualités Techno" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/53.xml"/>
+  <outline text="Personnalités La Presse" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/264.xml"/>
+  <outline text="Naked Security" type="rss"
+  xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
+  <outline
+  text="Le Lien MULTIMÉDIA :: le portail des professionnels du numérique au Québec"
+  type="rss" xmlUrl="http://www.lienmultimedia.com/?page=backend"/>
+  <outline text="Nathalie Petrowski" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/960.xml"/>
+  <outline text="Le Journal des RH" type="rss"
+  xmlUrl="http://feeds.feedburner.com/lejournaldesrh"/>
+  <outline text="Content Marketing Institute" type="rss"
+  xmlUrl="http://contentmarketinginstitute.com/feed/"/>
+  <outline text="Réseau Info Éducation AMEQ en ligne" type="rss"
+  xmlUrl="http://ameqenligne.com/rssaq.rss"/>
+  <outline text="Consommation" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/917.xml"/>
+  <outline text="News Ticker - markets.businessinsider.com" type="rss"
+  xmlUrl="https://markets.businessinsider.com/rss/news"/>
+  <outline text="RIRE" type="rss" xmlUrl="http://rire.ctreq.qc.ca/feed/"/>
+  <outline text="Santé - Femmes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/747.xml"/>
+  <outline text="Observatoire francophone des TI" type="rss"
+  xmlUrl="http://ofti.org/feed/"/>
+  <outline text="VETIQ" type="rss" xmlUrl="http://vetiq.org/index.php?type=100"/>
+  <outline text="The Verge -  All Posts" type="rss"
+  xmlUrl="https://www.theverge.com/rss/index.xml"/>
+  <outline text="Découvertes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/988.xml"/>
+  <outline text="The Atlantic" type="rss"
+  xmlUrl="https://www.theatlantic.com/feed/all/"/>
+  <outline text="Cuisine - En vrac" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/652.xml"/>
+  <outline text="WK-RH" type="rss"
+  xmlUrl="http://www.wk-rh.fr/actualites/rss.php"/>
+  <outline text="Blockchain –&#160;Refind" type="rss"
+  xmlUrl="https://refind.com/feed/blockchain.rss"/>
+  <outline text="Amérique latine" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/967.xml"/>
+  <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss"/>
+  <outline text="Nouvelles" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/300.xml"/>
+  <outline text="Spiria" type="rss" xmlUrl="http://www.spiria.com/blogue/rss-fr"/>
+  <outline text="Nouvelles Internet" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/46.xml"/>
+  <outline text="" type="rss" xmlUrl="https://www.economist.com/rss"/>
+  <outline text="Société" type="rss" xmlUrl="http://www.lapresse.ca/rss/751.xml"/>
+  <outline text="LaPresse.ca - Accueil manchettes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/225.xml"/>
+  <outline text="GeekWire" type="rss" xmlUrl="https://www.geekwire.com/feed/"/>
+  <outline text="Nouvelles - Québec" type="rss"
+  xmlUrl="https://www.lapresse.ca/rss/2403.xml"/>
+  <outline text="Fast Company" type="rss"
+  xmlUrl="http://feeds.feedburner.com/fastcompany/headlines"/>
+  <outline text="RSS - CEFRIO" type="rss"
+  xmlUrl="https://cefrio.qc.ca/blogue/rss/"/>
+  <outline text="Le bordel informatique" type="rss"
+  xmlUrl="https://www.journaldemontreal.com/enquetes/le-bordel-informatique/rss.xml"/>
+  <outline text="Université Laval - Tous les événements" type="rss"
+  xmlUrl="https://www.ulaval.ca/no_cache/calendrier.html?tx_stsimpleajaxcal_pi1%5Bexport%5D=1&amp;tx_stsimpleajaxcal_pi1%5Bcat%5D=0"/>
+  <outline text="Radio-Canada | Région - Côte-Nord" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/35019"/>
+  <outline text="En vrac - Sciences" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/986.xml"/>
+  <outline text="Inc.com" type="rss" xmlUrl="http://www.inc.com/rss.xml"/>
+  <outline text="rss_headline" type="rss"
+  xmlUrl="https://www.investopedia.com/feedbuilder/feed/getfeed/?feedName=rss_headline"/>
+  <outline text="RSS - CEFRIO" type="rss"
+  xmlUrl="https://cefrio.qc.ca/projets-recherches-enquetes/rss.xml"/>
+  <outline text="Lesaffaires.com - Passions" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/passions"/>
+  <outline text="Coursera Blog" type="rss" xmlUrl="http://blog.coursera.org/rss"/>
+  <outline text="Telematics and Informatics" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/telematics-and-informatics/rss"/>
+  <outline text="Nouvelles - Québec" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/2403.xml"/>
+  <outline text="Europe" type="rss" xmlUrl="http://www.lapresse.ca/rss/863.xml"/>
+  <outline text="Communiqués de presse" type="rss"
+  xmlUrl="https://qgov.newswire.ca/api/releases?format=rss&amp;target=http://www.fil-information.gouv.qc.ca/Pages/Article.aspx?idArticle=&amp;l=fr&amp;t=0&amp;start=0&amp;rows=25"/>
+  <outline text="Faculté d'éducation" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/education/fil/11462/nouvelles.xml"/>
+  <outline text="Nouvelles du réseau collégial" type="rss"
+  xmlUrl="http://www.lescegeps.com/rss/portail.xml"/>
+  <outline text="IT ProPortal" type="rss"
+  xmlUrl="https://www.itproportal.com/rss/"/>
+  <outline text="Santé - En forme" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1005.xml"/>
+  <outline text="Spectacles - Humour et variétés" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/903.xml"/>
+  <outline text="Politique canadienne" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/275.xml"/>
+  <outline text="Asie et Océanie" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/980.xml"/>
+  <outline text="LaPresse.ca - Vivre" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/237.xml"/>
+  <outline text="NYT &gt; Personal Tech" type="rss"
+  xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"/>
+  <outline
+  text="Benzinga - Stock Market Quotes, Business News, Financial News, Trading Ideas, and Stock Research by Professionals"
+  type="rss" xmlUrl="http://feeds.benzinga.com/benzinga"/>
+  <outline text="Critiques" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/4212.xml"/>
+  <outline text="International Journal of Child-Computer Interaction" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/international-journal-of-child-computer-interaction/rss"/>
+  <outline text="Google AI Blog" type="rss"
+  xmlUrl="http://googleresearch.blogspot.com/atom.xml"/>
+  <outline text="Santé - Nutrition" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/743.xml"/>
+  <outline text="École branchée" type="rss"
+  xmlUrl="http://feeds.feedburner.com/Infobourg-Actualite"/>
+  <outline text="Lesaffaires.com - Blogues" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/blogues"/>
+  <outline text="Les derniers dossiers de Futura High-Tech" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/dossiers.xml"/>
+  <outline text="Artificial Intelligence" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/artificial-intelligence/rss"/>
+  <outline text="Kotaku" type="rss" xmlUrl="http://kotaku.com/rss"/>
+  <outline text="Société / Science - Le Devoir" type="rss"
+  xmlUrl="https://www.ledevoir.com/rss/section/societe/science.xml"/>
+  <outline text="Nouvelles - États-Unis" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/2405.xml"/>
+  <outline text="Radio-Canada | Nouvelles" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/4159"/>
+  <outline text="LaPresse.ca - Sports" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/229.xml"/>
+  <outline text="Économie" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/920.xml"/>
+  <outline text="Bersin &amp; Associates Analyst Updates" type="rss"
+  xmlUrl="http://feeds.feedburner.com/TheBusinessOfTalent"/>
+  <outline text="HBR.org" type="rss"
+  xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/"/>
+  <outline text="Actualités Infopresse" type="rss"
+  xmlUrl="https://www.infopresse.com/rss"/>
+  <outline text="Environnement - En vrac" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/922.xml"/>
+  <outline text="Talent imitates, genius steals" type="rss"
+  xmlUrl="http://feeds.feedburner.com/GeniusSteals"/>
+  <outline text="AI –&#160;Refind" type="rss"
+  xmlUrl="https://refind.com/feed/ai.rss"/>
+  <outline text="rss_articles" type="rss"
+  xmlUrl="https://www.investopedia.com/feedbuilder/feed/getfeed/?feedName=rss_articles"/>
+  <outline text="Médécine" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/990.xml"/>
+  <outline text="Les derniers dossiers de Futura-Sciences" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/dossiers.xml"/>
+  <outline text="Vins" type="rss" xmlUrl="http://www.lapresse.ca/rss/1201.xml"/>
+  <outline text="Montreal in Technology" type="rss"
+  xmlUrl="http://www.montrealintechnology.com/feed/"/>
+  <outline text="TechSpective" type="rss"
+  xmlUrl="https://techspective.net/feed/"/>
+  <outline text="École branchée" type="rss"
+  xmlUrl="https://ecolebranchee.com/feed/"/>
+  <outline
+  text="Formation - Portail RH [Ordre des conseillers en ressources humaines agréés]"
+  type="rss" xmlUrl="http://www.portailrh.org/RSS/3504.aspx"/>
+  <outline text="Espèces menacées" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/919.xml"/>
+  <outline text="Ailleurs sur le web" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/281.xml"/>
+  <outline text="UQAM | Actualités | Dernières nouvelles" type="rss"
+  xmlUrl="http://www.actualites.uqam.ca/nouvelles.feed"/>
+  <outline text="Faculté de médecine et des sciences de la santé" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/medecine/fil/8204/nouvelles.xml"/>
+  <outline text="UXmatters" type="rss"
+  xmlUrl="http://www.uxmatters.com/index.xml"/>
+  <outline text="Lesaffaires.com - Dossier" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/dossier"/>
+  <outline text="Spectacles - Danse" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/907.xml"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/5777"/>
+  <outline text="Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/feed"/>
+  <outline text="The Internet and Higher Education" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/the-internet-and-higher-education/rss"/>
+  <outline text="Tags from mapstruct" type="rss"
+  xmlUrl="https://github.com/mapstruct/mapstruct/tags.atom"/>
+  <outline text="Livres" type="rss" xmlUrl="http://www.lapresse.ca/rss/288.xml"/>
+  <outline text=" Juniper Research RSS " type="rss"
+  xmlUrl="http://www.juniperresearch.com/analyst-xpress-blog/feed/"/>
+  <outline text="WEF News" type="rss" xmlUrl="https://news.wef.org/feed/"/>
+  <outline text="Sherbrooke Innopole" type="rss"
+  xmlUrl="http://sherbrooke-innopole.com/fr/feed/"/>
+  <outline text="RSS - CEFRIO" type="rss"
+  xmlUrl="https://cefrio.qc.ca/publications/rss.xml"/>
+  <outline text="Business | The Atlantic" type="rss"
+  xmlUrl="http://feeds.feedburner.com/AtlanticBusinessChannel"/>
+  <outline text="Nouvelles - Canada" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/2404.xml"/>
+  <outline text="Santé - Hommes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1079.xml"/>
+  <outline text="Computational Statistics &amp; Data Analysis" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/computational-statistics-and-data-analysis/rss"/>
+  <outline text="Actualités manchettes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/217.xml"/>
+  <outline text="Computerworld" type="rss"
+  xmlUrl="https://www.computerworld.com/index.rss"/>
+  <outline text="Santé - Enfants" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/744.xml"/>
+  <outline text="Pew Research Center" type="rss"
+  xmlUrl="http://www.pewresearch.org/feed/"/>
+  <outline text="Techno - Mobile - Appli de la semaine" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_applidelasemaine.xml"/>
+  <outline text="WSJ.com: Lifestyle" type="rss"
+  xmlUrl="http://www.wsj.com/xml/rss/3_7201.xml"/>
+  <outline text="Lesaffaires.com - Monde" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/monde"/>
+  <outline text="WSJ.com: US Business" type="rss"
+  xmlUrl="http://www.wsj.com/xml/rss/3_7014.xml"/>
+  <outline text="Actualités de la Organisation Internationale du Travail"
+  type="rss"
+  xmlUrl="http://www.ilo.org/global/rss-feeds/news/lang--fr/index.htm"/>
+  <outline text="Mode - Beauté" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/715.xml"/>
+  <outline text="Dark Reading: " type="rss"
+  xmlUrl="https://www.darkreading.com/rss_simple.asp"/>
+  <outline text="Nouvelles Réseaux sociaux" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/123234.xml"/>
+  <outline text="Business and financial news - CNNMoney.com" type="rss"
+  xmlUrl="http://rss.cnn.com/rss/money_topstories.rss"/>
+  <outline text="LinkedIn Talent Blog" type="rss"
+  xmlUrl="http://feeds.feedblitz.com/TalentBlog"/>
+  <outline text="NYT &gt; Technology" type="rss"
+  xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+  <outline text="Actualités Technologie" type="rss"
+  xmlUrl="https://www.clubic.com/technologies-d-avenir/actualites.rss"/>
+  <outline text="Faculté des sciences" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/sciences/fil/16937/nouvelles.xml"/>
+  <outline text="L'Atelier BNP Paribas" type="rss"
+  xmlUrl="http://www.atelier.net/RSS-podcast/atelier"/>
+  <outline text="Produits – Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/categorie/produits/feed"/>
+  <outline text="Techno - Web" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_web.xml"/>
+  <outline text="Blog" type="rss" xmlUrl="http://www.mintzberg.org/rss"/>
+  <outline text="Astronomie et espace" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/987.xml"/>
+  <outline text="Hugo Dumas" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/939.xml"/>
+  <outline text="Carrefour éducation" type="rss"
+  xmlUrl="http://carrefour-education.qc.ca/feed_rss_accueil/node_feed"/>
+  <outline text="Entrepreneur" type="rss"
+  xmlUrl="http://feeds.feedburner.com/entrepreneur/latest"/>
+  <outline text="RSS - CEFRIO" type="rss"
+  xmlUrl="https://cefrio.qc.ca/pressroom/rss/"/>
+  <outline text="Marie Claude Lortie" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/954.xml"/>
+  <outline text="Musique - Nouvelles" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1002.xml"/>
+  <outline text="Les dernières définitions de Futura High-Tech" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/definitions.xml"/>
+  <outline text="Presse-Citron" type="rss"
+  xmlUrl="http://www.presse-citron.net/feed"/>
+  <outline text="Famille - Vie de famille" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/671.xml"/>
+  <outline text="Daily Search Trends" type="rss"
+  xmlUrl="https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"/>
+  <outline text="Autres sports" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/956.xml"/>
+  <outline text="Philippe Cantin" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/7197.xml"/>
+  <outline text="Santé - Nouvelles" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/735.xml"/>
+  <outline text="BBC Future" type="rss"
+  xmlUrl="http://www.bbc.com/future/feed.rss"/>
+  <outline text="Recode -  All Posts" type="rss"
+  xmlUrl="https://www.recode.net/rss/current"/>
+  <outline text="Actualités – Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/categorie/actualites/feed"/>
+  <outline text="Radio-Canada | Région - Gaspésie–Îles" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/35015"/>
+  <outline text="Tech – Fortune" type="rss"
+  xmlUrl="http://fortune.com/category/tech/feed/"/>
+  <outline text="Technology in Society" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/technology-in-society/rss"/>
+  <outline text="Les dernières actualités de Futura High-Tech" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/actualites.xml"/>
+  <outline text="Enquêtes" type="rss"
+  xmlUrl="https://www.journaldemontreal.com/enquetes/rss.xml"/>
+  <outline text="ZDNet actualites" type="rss"
+  xmlUrl="https://www.zdnet.fr/feeds/rss/actualites/"/>
+  <outline text="Lesaffaires.com - Opération relève" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/operation-releve"/>
+  <outline text="No Free Hunch" type="rss" xmlUrl="http://blog.kaggle.com/feed/"/>
+  <outline text="Future Generation Computer Systems" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/future-generation-computer-systems/rss"/>
+  <outline text="Sans titre" type="rss"
+  xmlUrl="http://feeds.feedburner.com/businessoverbroadway/xSTL"/>
+  <outline text="International Journal of Forecasting" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/international-journal-of-forecasting/rss"/>
+  <outline text="Génétique" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/989.xml"/>
+  <outline text="BBC News - Technology" type="rss"
+  xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+  <outline text="Salle de presse - Communiqués de presse" type="rss"
+  xmlUrl="http://salledepresse.uqam.ca/communiques-de-presse/general?format=feed&amp;type=rss"/>
+  <outline text="Bits" type="rss" xmlUrl="https://bits.blogs.nytimes.com/feed/"/>
+  <outline text="Journal du Geek" type="rss"
+  xmlUrl="https://www.journaldugeek.com/feed/"/>
+  <outline text="Radio-Canada | Région - Grand-Nord" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/1001049"/>
+  <outline
+  text="Les plus récents document de l'Observatoire - Portail RH [Ordre des conseillers en ressources humaines agréés]"
+  type="rss" xmlUrl="http://www.portailrh.org/RSS/5085.aspx"/>
+  <outline text="Release notes from mapstruct" type="rss"
+  xmlUrl="https://github.com/mapstruct/mapstruct/releases.atom"/>
+  <outline text="États-Unis" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/445.xml"/>
+  <outline text="LaPresse.ca - International" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/179.xml"/>
+  <outline text="Musique - Disques" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/897.xml"/>
+  <outline text="Communiqués" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/relations-medias/fil/52050/communiques.xml"/>
+  <outline text="Grand Montréal" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/257.xml"/>
+  <outline text="Lysiane Gagnon" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/943.xml"/>
+  <outline text="TechNewsWorld" type="rss"
+  xmlUrl="https://www.technewsworld.com/perl/syndication/rssfull.pl?__hstc=67659214.f3e7617cbd77833f3b019d0f6708f580.1534343252386.1534343252386.1534343252386.1&amp;__hssc=67659214.23.1534343252386&amp;__hsfp=1934574603"/>
+  <outline text="Fistful of Talent" type="rss"
+  xmlUrl="http://www.fistfuloftalent.com/atom.xml"/>
+  <outline text="Spectacles - Théâtre" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/904.xml"/>
+  <outline
+  text="Emerald: Journal of Management Development: Table of ContentsEmerald: Journal of Management Development: Table of Contents"
+  type="rss" xmlUrl="http://www.emeraldinsight.com/rss/0262-1711.xml"/>
+  <outline text="Big Data Research" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/big-data-research/rss"/>
+  <outline text="Lifehacker" type="rss" xmlUrl="http://lifehacker.com/rss"/>
+  <outline text="OCE – L'Observatoire compétences-emplois" type="rss"
+  xmlUrl="http://www.oce.uqam.ca/feed/"/>
+  <outline text="Libres Échanges" type="rss"
+  xmlUrl="http://blogue.economistesquebecois.com/feed/"/>
+  <outline text="hreonline.com" type="rss"
+  xmlUrl="http://www.hreonline.com/HRE/RSSServlet?topic=ALL&amp;site=HRE"/>
+  <outline text="EdSurge Articles" type="rss"
+  xmlUrl="https://www.edsurge.com/articles_rss.rss"/>
+  <outline text="Les dernières astuces de Futura High-Tech" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/questions-reponses.xml"/>
+  <outline text="Accueil" type="rss"
+  xmlUrl="https://www.journaldemontreal.com/rss.xml"/>
+  <outline text="Actualités de Futura High-Tech / Partenariat Free" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/actualites-free.xml"/>
+  <outline text="Santé" type="rss" xmlUrl="http://www.lapresse.ca/rss/277.xml"/>
+  <outline text="Michèle Ouimet" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/957.xml"/>
+  <outline text="La Presse débats" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/8314.xml"/>
+  <outline text="Canoe.ca - Techno - Essais" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_essais.xml"/>
+  <outline text="ERE" type="rss" xmlUrl="http://www.ere.net/feed/"/>
+  <outline text="The Register" type="rss"
+  xmlUrl="http://www.theregister.co.uk/excerpts.rss"/>
+  <outline text="Patrick Lagacé" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/948.xml"/>
+  <outline text="Manchettes - Le Devoir" type="rss"
+  xmlUrl="https://www.ledevoir.com/rss/manchettes.xml"/>
+  <outline text="Training Magazine" type="rss"
+  xmlUrl="http://www.trainingmag.com/rss.xml"/>
+  <outline text="Pew Research Center" type="rss"
+  xmlUrl="http://pewresearch.org/rss.xml"/>
+  <outline text="Les dernières photos de Futura-Sciences" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/photos.xml"/>
+  <outline text="Nouvelles Jeux vidéo" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/50.xml"/>
+  <outline text="Science Pour Tous" type="rss"
+  xmlUrl="http://www.sciencepourtous.qc.ca/feed"/>
+  <outline text="Actualités de Futura High-Tech / Partenariat Planet.fr"
+  type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/high-tech/actualites-planetfr.xml"/>
+  <outline text="Affaires manchettes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/100.xml"/>
+  <outline text="Québec International - Rss" type="rss"
+  xmlUrl="http://www.quebecinternational.ca/rss"/>
+  <outline text="Yves Boisvert" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/928.xml"/>
+  <outline text="Geekbecois" type="rss"
+  xmlUrl="https://feeds.feedburner.com/geekbecois/JyvH"/>
+  <outline text="Parallel Computing" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/parallel-computing/rss"/>
+  <outline text="Techno" type="rss"
+  xmlUrl="https://www.journaldemontreal.com/jm/techno/rss.xml"/>
+  <outline text="The Rapid E-Learning Blog" type="rss"
+  xmlUrl="http://feeds.feedburner.com/RapidElearningBlog"/>
+  <outline text="Faculté de génie" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/genie/fil/3590/nouvelles.xml"/>
+  <outline text="Médias" type="rss" xmlUrl="http://www.lapresse.ca/rss/6152.xml"/>
+  <outline text="Computer Economics Research Bytes" type="rss"
+  xmlUrl="http://www.computereconomics.com/rss.cfm?id=2"/>
+  <outline text="MindShift" type="rss" xmlUrl="http://mindshift.kqed.org/feed/"/>
+  <outline
+  text="FACIL - pour l'appropriation collective de l'informatique libre"
+  type="rss" xmlUrl="https://facil.qc.ca/commbref/feed"/>
+  <outline text="Arts visuels" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/912.xml"/>
+  <outline text="Trish McFarlane" type="rss"
+  xmlUrl="http://hrringleader.com/feed/"/>
+  <outline text="Lesaffaires.com - Stratégie d'entreprise" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/strategie-d-entreprise"/>
+  <outline text="FUTURES &amp; FORESIGHT SCIENCE: Most Cited articles"
+  type="rss"
+  xmlUrl="https://onlinelibrary.wiley.com/action/showMostCitedArticlesFeed?journalCode=25735152"/>
+  <outline text="Analyse – Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/categorie/analyse/feed"/>
+  <outline text="Techno - Jeux vidéo" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_jeuxvideo.xml"/>
+  <outline text="Evil HR Lady" type="rss"
+  xmlUrl="http://evilhrlady.blogspot.com/feeds/posts/default"/>
+  <outline text="Le blog de la Formation professionnelle et continue" type="rss"
+  xmlUrl="http://www.formation-professionnelle.fr/feed/"/>
+  <outline text="The Linux Foundation" type="rss"
+  xmlUrl="https://www.linuxfoundation.org/feed/"/>
+  <outline text="Les dernières questions - réponses de Futura-Sciences"
+  type="rss" xmlUrl="https://www.futura-sciences.com/rss/questions-reponses.xml"/>
+  <outline text="" type="rss" xmlUrl="https://www.clubic.com/divers/partner.php"/>
+  <outline text="Small Business Trends" type="rss"
+  xmlUrl="http://feeds.feedburner.com/SmallBusinessTrends"/>
+  <outline
+  text="Nouveautés - Portail RH [Ordre des conseillers en ressources humaines agréés]"
+  type="rss" xmlUrl="http://www.portailrh.org/RSS/5250.aspx"/>
+  <outline text="TalentCulture" type="rss"
+  xmlUrl="http://www.talentculture.com/feed/"/>
+  <outline text="Seth Godin's Blog on marketing, tribes and respect" type="rss"
+  xmlUrl="http://sethgodin.typepad.com/seths_blog/atom.xml"/>
+  <outline text="IT World CanadaIT World Canada" type="rss"
+  xmlUrl="http://feeds.feedburner.com/daily-it-newswire?format=xml"/>
+  <outline text="Future of Work –&#160;Refind" type="rss"
+  xmlUrl="https://refind.com/feed/future-of-work.rss"/>
+  <outline text="Computers &amp; Graphics" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/computers-and-graphics/rss"/>
+  <outline text="Technological Forecasting and Social Change" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/technological-forecasting-and-social-change/rss"/>
+  <outline text="Techno - Comment faire" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_comment_faire.xml"/>
+  <outline text="Lesaffaires.com - Techno" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/techno"/>
+  <outline text="Learning Solutions Magazine" type="rss"
+  xmlUrl="https://www.learningsolutionsmag.com/rss.xml"/>
+  <outline text="JDN : Derniers contenus" type="rss"
+  xmlUrl="https://www.journaldunet.com/rss/"/>
+  <outline text="Éducation" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/278.xml"/>
+  <outline text="National Post" type="rss"
+  xmlUrl="https://nationalpost.com/feed/"/>
+  <outline text="Lesaffaires.com - Classements" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/classements"/>
+  <outline text="Direction Informatique" type="rss"
+  xmlUrl="http://www.directioninformatique.com/DI/client/fr/DirectionInformatique/buildRss.asp?cid=79"/>
+  <outline text="MEI - Communiqués" type="rss"
+  xmlUrl="http://www.economie.gouv.qc.ca/rss/communiques.xml"/>
+  <outline text="Robotics and Autonomous Systems" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/robotics-and-autonomous-systems/rss"/>
+  <outline text="Tech –&#160;Refind" type="rss"
+  xmlUrl="https://refind.com/feed/tech.rss"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/5763"/>
+  <outline text="www.rie.ca - Infolettre" type="rss"
+  xmlUrl="https://www.rie.ca/1/feed"/>
+  <outline text="IQ - Communiqués de presse" type="rss"
+  xmlUrl="http://feeds.feedburner.com/IQcommuniques"/>
+  <outline text="Microsoft Research News and Highlights" type="rss"
+  xmlUrl="http://research.microsoft.com/rss/news.xml"/>
+  <outline text="LaPresse.ca - Arts" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/216.xml"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/6102"/>
+  <outline text="LaPresse.ca - Actualités" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/178.xml"/>
+  <outline text="Stratégies – Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/categorie/strategies-2/feed"/>
+  <outline text="Télévision" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/910.xml"/>
+  <outline text="Marc Cassivi" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/933.xml"/>
+  <outline text="WSJ.com: World News" type="rss"
+  xmlUrl="http://www.wsj.com/xml/rss/3_7085.xml"/>
+  <outline text="McKinsey Insights &amp; Publications" type="rss"
+  xmlUrl="http://www.mckinsey.com/Insights/rss.aspx"/>
+  <outline text="Lucid Meetings Blog" type="rss"
+  xmlUrl="https://blog.lucidmeetings.com/blog/rss.xml"/>
+  <outline text="Moyen-Orient" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/991.xml"/>
+  <outline text="Techno - Mobile" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_mobile.xml"/>
+  <outline text="Computer Communications" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/computer-communications/rss"/>
+  <outline text="The Big Picture" type="rss"
+  xmlUrl="http://www.ritholtz.com/blog/feed/"/>
+  <outline text="Digital Communications and Networks" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/digital-communications-and-networks/rss"/>
+  <outline text="New on MIT Technology Review" type="rss"
+  xmlUrl="https://www.technologyreview.com/stories.rss"/>
+  <outline text="ScienceDirect Publication: Human Resource Management Review"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/10534822"/>
+  <outline text="Fil de presse - Le Devoir" type="rss"
+  xmlUrl="http://feeds2.feedburner.com/fluxdudevoir"/>
+  <outline
+  text="Fil de presse - Portail RH [Ordre des conseillers en ressources humaines agrs]"
+  type="rss" xmlUrl="http://www.portailrh.org/RSS/104.aspx"/>
+  <outline text="Digital Trends" type="rss"
+  xmlUrl="https://www.digitaltrends.com/feed/"/>
+  <outline text="Lesaffaires.com - Bourse" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/bourse"/>
+  <outline text=" Juniper Research RSS " type="rss"
+  xmlUrl="http://www.juniperresearch.com/researchfeed.xml"/>
+  <outline text="Workforce" type="rss" xmlUrl="https://www.workforce.com/feed/"/>
+  <outline text="URBANIA" type="rss" xmlUrl="https://urbania.ca/articles.rss"/>
+  <outline text="E-Commerce Times" type="rss"
+  xmlUrl="https://www.ecommercetimes.com/perl/syndication/rssfull.pl?__hstc=67659214.f3e7617cbd77833f3b019d0f6708f580.1534343252386.1534343252386.1534343252386.1&amp;__hssc=67659214.23.1534343252386&amp;__hsfp=1934574603"/>
+  <outline text="LaPresse.ca - Environnement" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/241.xml"/>
+  <outline text="Computers &amp; Education" type="rss"
+  xmlUrl="https://www.journals.elsevier.com/computers-and-education/rss"/>
+  <outline text="Education – The Conversation" type="rss"
+  xmlUrl="https://theconversation.com/ca/education/articles.atom"/>
+  <outline text="Nouvelles Télécoms et mobilité" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/48.xml"/>
+  <outline text="Recent Commits to mapstruct:master" type="rss"
+  xmlUrl="https://github.com/mapstruct/mapstruct/commits/master.atom"/>
+  <outline text="LEXPRESS.fr - Rss A la Une" type="rss"
+  xmlUrl="https://www.lexpress.fr/rss/alaune.xml"/>
+  <outline text="Vie de stars" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/911.xml"/>
+  <outline text="Chronique – Direction Informatique" type="rss"
+  xmlUrl="https://www.directioninformatique.com/categorie/chronique-2/feed"/>
+  <outline text="Lesaffaires.com - Mes finances" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/mes-finances"/>
+  <outline text="Parlons RH" type="rss" xmlUrl="http://www.parlonsrh.com/feed/"/>
+  <outline
+  text="Fil RSS pour les actualités de la Commission des partenaires du marché du travail"
+  type="rss" xmlUrl="https://www.cpmt.gouv.qc.ca/RSS/RSS-nouvelles.asp"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/6104"/>
+  <outline text="CEIM" type="rss" xmlUrl="http://www.ceim.org/feed/"/>
+  <outline text="ScienceDirect Publication: Technovation" type="rss"
+  xmlUrl="http://rss.sciencedirect.com/publication/science/01664972"/>
+  <outline text="hr bartender" type="rss"
+  xmlUrl="http://feeds.feedburner.com/HrBartender"/>
+  <outline text="Politique québécoise" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/1011.xml"/>
+  <outline text="Grands titres" type="rss"
+  xmlUrl="https://www.usherbrooke.ca/actualites/fil/12577/nouvelles.xml"/>
+  <outline text="Nouvelles - International" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/2406.xml"/>
+  <outline text="Rima Elkouri" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/940.xml"/>
+  <outline text="HRPS Blog - HR People+Strategy" type="rss"
+  xmlUrl="http://blog.hrps.org/rss.xml"/>
+  <outline text="Lesaffaires.com - Secteurs" type="rss"
+  xmlUrl="http://www.lesaffaires.com/rss/secteurs-d-activite"/>
+  <outline text="Nouvelles ÉTS" type="rss"
+  xmlUrl="http://etsmtl.ca/fils-rss?rss=NouvellesRSS"/>
+  <outline text="Les dernières définitions de Futura-Sciences" type="rss"
+  xmlUrl="https://www.futura-sciences.com/rss/definitions.xml"/>
+  <outline text="Actualités du site de la Commission des normes du travail"
+  type="rss" xmlUrl="https://www.cnt.gouv.qc.ca/accueil/index.html?type=101"/>
+  <outline text="Gartner Blog Network gbn-feed - Gartner Blog Network"
+  type="rss" xmlUrl="http://blogs.gartner.com/gbn/feed/"/>
+  <outline text="Nouvelles du cinéma québécois" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/10166.xml"/>
+  <outline text="TLNT – ERE Media" type="rss"
+  xmlUrl="http://feeds.feedburner.com/tlnt"/>
+  <outline text="Revolution-RH" type="rss"
+  xmlUrl="http://revolution-rh.com/feed/"/>
+  <outline text="Feedburner" type="rss"
+  xmlUrl="http://feeds.feedburner.com/businessinsider"/>
+  <outline text="Learning in the Modern Workplace" type="rss"
+  xmlUrl="http://www.c4lpt.co.uk/blog/feed/"/>
+  <outline text="Popular – Refind" type="rss"
+  xmlUrl="https://refind.com/feed/popular.rss"/>
+  <outline text="Canoe.ca - Techno - Sciences" type="rss"
+  xmlUrl="http://fr.canoe.ca/rss/feed/nouvelles/techno_sciences.xml"/>
+  <outline text="International manchettes" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/387.xml"/>
+  <outline text="Les Numériques" type="rss"
+  xmlUrl="https://www.lesnumeriques.com/rss.xml"/>
+  <outline text="Manchettes cinéma" type="rss"
+  xmlUrl="http://www.lapresse.ca/rss/238.xml"/>
+  <outline text="TrendHunter.com - Marketing Strategy" type="rss"
+  xmlUrl="http://feeds.feedburner.com/TrendHunter/Marketing-Strategy"/>
+  <outline text="MEI - Avis aux médias" type="rss"
+  xmlUrl="http://www.economie.gouv.qc.ca/rss/avis-aux-medias.xml"/>
+  <outline text="WSJ.com: WSJD" type="rss"
+  xmlUrl="http://www.wsj.com/xml/rss/3_7455.xml"/>
+  <outline text="Radio-Canada | Région - Bas-Saint-Laurent" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/35004"/>
+  <outline text="Radio-Canada | En ligne" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/4201"/>
+  <outline text="Radio-Canada | Info - En continu - Automatisé" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/1000524"/>
+  <outline text="Radio-Canada | Techno - À la une" type="rss"
+  xmlUrl="https://ici.radio-canada.ca/rss/4169"/>
+  <outline text="Visual Capitalist" type="rss"
+  xmlUrl="http://feeds.feedburner.com/visualcapitalist?format=xml"/>
+ </body>
+</opml>
